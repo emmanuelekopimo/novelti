@@ -9,4 +9,5 @@ Modules:
  - pygame
  - pyvirtualcam 
  - cv2
+ 
  All modules can be installed using pip.
